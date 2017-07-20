@@ -1,5 +1,3 @@
-# DLND-image-classification
-DLND Second Project
 #  DLND Image Classification
 
 ### The second project of the [_**Deep Learning Nanodegree Foundation**_](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
