@@ -1,6 +1,6 @@
 #  DLND Image Classification
 
-### The second project of the [_**Deep Learning Nanodegree Foundation**_](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
+### The second project for the [_**Deep Learning Nanodegree Foundation**_](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
 
 In this project we built a network to classify images in the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html). The dataset contains 60K color images (32×32 pixel) in 10 classes, with 6K images per class.
