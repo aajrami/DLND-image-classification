@@ -9,7 +9,7 @@ The project was implemented in Python and using Numby and Tensorflow.
 
 #### Topics covered are:
 
-- Convolutional Neural Networks (CNN)
+- Convolutional Neural Networks (CNNs)
 - TensorFlow
 - Max pooling
 - Dropout
